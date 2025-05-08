@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Org Badge -->
-  <a href="https://github.com/Atmosera">
-    <img src="https://img.shields.io/badge/GitHub-Atmosera-181717?logo=github" alt="GitHub Org" />
-  </a>
   <!-- Microsoft Partner Badge -->
   <img src="https://img.shields.io/badge/Microsoft%20Partner-Cloud_Solution_Provider-0078D4?logo=microsoft" alt="Microsoft CSP" />
   <!-- DevOps Badge -->
