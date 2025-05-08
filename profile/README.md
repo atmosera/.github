@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to Atmosera’s GitHub 👋</h1>
 <p align="center">
-  <strong>Atmosera, A Professional & Managed Services Gold Microsoft Partner!</strong><br>
+  <strong>Atmosera, A Professional & Managed Services Microsoft Partner!</strong><br>
   Delivering world-class DevOps, GitHub, and cloud solutions for the Microsoft ecosystem.
 </p>
 
