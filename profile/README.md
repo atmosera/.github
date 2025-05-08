@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://www.atmosera.com/wp-content/uploads/2021/11/atmosera_logo.svg" alt="Atmosera" width="200" />
 </p>
@@ -38,7 +36,7 @@
 
 ## 🏢 About Atmosera
 
-Atmosera is a Professional and Managed Services partner with Microsoft, committed to delivering world-class DevOps and cloud-native solutions across the Microsoft ecosystem. From ideation to operations, we help enterprises accelerate innovation, reduce risk, and drive cost efficiencies.
+Atmosera’s here to make a positive difference for our clients and, through a focus on trust-building service delivery, continue to build Atmosera for the long-term. Over the past 20 years, we’ve navigated the same transformations as we help our clients navigate and can speak from a credible, personal, and highly technical perspective. With extensive expertise across AppDev, DevOps, Data, AI, and the Microsoft Azure platform, Atmosera exists to improve operational agility, minimize security and compliance risks, optimize financial performance, and vastly enhance value for those with whom we partner.  We are a leading transformation services provider, our clients are global, and our focus is on exceptional, personalized business outcomes for you.
 
 ---
 
@@ -47,35 +45,22 @@ Atmosera is a Professional and Managed Services partner with Microsoft, committe
 | Service                             | Description                                                        |
 |-------------------------------------|--------------------------------------------------------------------|
 | **Cloud Strategy & Architecture**   | Roadmaps, assessments, governance, and cost optimization.          |
-| **Infrastructure as Code (IaC)**    | Automated provisioning with Terraform, ARM, Bicep, and Ansible.    |
-| **CI/CD & GitOps**                  | GitHub Actions, Azure Pipelines, and best-practice pipelines.      |
-| **Managed DevOps**                  | 24×7 monitoring, incident response, and continuous improvement.    |
-| **Application Modernization**       | Containerization, Kubernetes (AKS), and serverless architectures. |
-| **Security & Compliance**           | Azure Security Center, Sentinel, policy-as-code, and hardening.   |
+| **Platform Engineering**            | Design and implement world class Developer Experience Platforms    |
+| **Microsoft & GitHub Training**     | Learn from our expert trainers on all things Microsoft and Github! |
+| **Managed Azure & DevOps**          | 24×7 monitoring, incident response, and continuous improvement.    |
+| **Application Modernization**       | Containerization, Kubernetes (AKS), and serverless architectures.  |
+| **Security & Compliance**           | Azure Security Center, Sentinel, policy-as-code, and hardening.    |
 
 ---
 
 ## 🚀 Expertise & Tech Stack
 
-- **Cloud**: Azure (AKS, App Services, Functions, Cosmos DB)
-- **DevOps**: GitHub Actions, Azure Pipelines, Terraform, Helm, Flux
-- **Containers & Orchestration**: Docker, Kubernetes, Service Mesh
-- **Monitoring & Logging**: Azure Monitor, Log Analytics, Grafana, Prometheus
-- **Scripting & Automation**: PowerShell, Azure CLI, Python, Ansible
-- **Security**: Azure Security Center, Microsoft Defender, Policy as Code
-
----
-
-## ✨ Featured Projects
-
-| Project                                              | Description                                                              |
-|------------------------------------------------------|--------------------------------------------------------------------------|
-| [iac-azure-landing-zone](https://github.com/Atmosera/iac-azure-landing-zone) | A modular Terraform implementation for enterprise-scale Azure landing zones. |
-| [github-actions-blueprint](https://github.com/Atmosera/github-actions-blueprint) | Reusable GitHub Actions workflows for CI/CD, linting, and testing.      |
-| [aks-k8s-policy-gatekeeper](https://github.com/Atmosera/aks-k8s-policy-gatekeeper) | Kubernetes policy enforcement with Gatekeeper & OPA on AKS clusters.    |
-| [devops-engineering-playbook](https://github.com/Atmosera/devops-engineering-playbook) | Best practices, checklists, and scripts for successful DevOps adoption. |
-
-*Discover more on our [repositories page](https://github.com/Atmosera?tab=repositories).*
+- **Cloud**: Azure (AKS, App Services, Functions, Cosmos DB)...
+- **DevOps**: GitHub Actions, Azure Pipelines, Terraform, Helm, Flux...
+- **Containers & Orchestration**: Docker, Kubernetes, Service Mesh...
+- **Monitoring & Logging**: Azure Monitor, Log Analytics, Fabric...
+- **Scripting & Automation**: PowerShell, Azure CLI, Python, Ansible, Python...
+- **Security**: Azure Security Center, Microsoft Defender, Policy as Code...
 
 ---
 
