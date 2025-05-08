@@ -6,7 +6,7 @@
 
 <h1 align="center">Welcome to Atmosera’s GitHub 👋</h1>
 <p align="center">
-  <strong>Professional & Managed Services Partner with Microsoft</strong><br>
+  <strong>Atmosera, A Professional & Managed Services Gold Microsoft Partner!</strong><br>
   Delivering world-class DevOps, GitHub, and cloud solutions for the Microsoft ecosystem.
 </p>
 
@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Microsoft%20Partner-Cloud_Solution_Provider-0078D4?logo=microsoft" alt="Microsoft CSP" />
   <!-- DevOps Badge -->
   <img src="https://img.shields.io/badge/DevOps-Expert-4AB197?logo=azuredevops" alt="DevOps Expertise" />
+  <!-- AI Partner Badge -->
+  ![AI Partner of the Year AMER](https://img.shields.io/badge/AI%20Partner%20of%20the%20Year-AMER-blue?style=flat-square)
   <!-- Website Badge -->
   <a href="https://atmosera.com">
     <img src="https://img.shields.io/badge/Website-atmosera.com-blue" alt="Atmosera Website" />
