@@ -36,7 +36,7 @@
 
 ## 🏢 About Atmosera
 
-Atmosera’s here to make a positive difference for our clients and, through a focus on trust-building service delivery, continue to build Atmosera for the long-term. Over the past 20 years, we’ve navigated the same transformations as we help our clients navigate and can speak from a credible, personal, and highly technical perspective. With extensive expertise across AppDev, DevOps, Data, AI, and the Microsoft Azure platform, Atmosera exists to improve operational agility, minimize security and compliance risks, optimize financial performance, and vastly enhance value for those with whom we partner.  We are a leading transformation services provider, our clients are global, and our focus is on exceptional, personalized business outcomes for you.
+Atmosera’s here to make a positive difference for our clients and, through a focus on trust-building service delivery, continue to build Atmosera for the long-term. Over the past 30 years, we’ve navigated the same transformations as we help our clients navigate and can speak from a credible, personal, and highly technical perspective. With extensive expertise across AppDev, DevOps, Data, AI, and the Microsoft Azure platform, Atmosera exists to improve operational agility, minimize security and compliance risks, optimize financial performance, and vastly enhance value for those with whom we partner.  We are a leading transformation services provider, our clients are global, and our focus is on exceptional, personalized business outcomes for you.
 
 ---
 
