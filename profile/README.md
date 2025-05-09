@@ -24,6 +24,53 @@ Atmosera is your trusted partner in digital transformation. For over 30 years, w
 
 Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure platform, making us a leading transformation services provider for global clients.
 
+## 🏆 Accolades
+
+<div align="center">
+<table border="0">
+<tr style="border: none;">
+<td align="center" style="border: none;">
+
+[![Azure Expert MSP](../images/azure-expert-msp.png)](https://atmosera.com)
+#### Azure Expert MSP
+
+</td>
+<td align="center" style="border: none;">
+
+[![Kubernetes](../images/kubernetes-azure.png)](https://atmosera.com)
+#### Kubernetes on Azure
+
+</td>
+<td align="center" style="border: none;">
+
+[![Web Apps](../images/modernization-web-apps.png)](https://atmosera.com)
+#### Web Apps Modernization
+
+</td>
+</tr>
+<tr style="border: none;">
+<td align="center" style="border: none;">
+
+[![Analytics](../images/analytics-azure.png)](https://atmosera.com)
+#### Analytics on Azure
+
+</td>
+<td align="center" style="border: none;">
+
+[![Security](../images/cloud-security.png)](https://atmosera.com)
+#### Cloud Security
+
+</td>
+<td align="center" style="border: none;">
+
+[![Migration](../images/windows-sql-migration.png)](https://atmosera.com)
+#### Windows & SQL Migration
+
+</td>
+</tr>
+</table>
+</div>
+
 ## 💼 Our Services
 
 <table>
