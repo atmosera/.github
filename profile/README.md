@@ -4,11 +4,6 @@
 
 [![Atmosera](https://www.atmosera.com/wp-content/uploads/2021/11/atmosera_logo.svg)](https://atmosera.com)
 
-[![Microsoft Partner](https://img.shields.io/badge/Microsoft_Partner-Solutions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://atmosera.com)
-[![Azure Expert](https://img.shields.io/badge/Azure-Expert_MSP-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://atmosera.com)
-[![GitHub Partner](https://img.shields.io/badge/GitHub-Advanced_Partner-181717?style=for-the-badge&logo=github&logoColor=white)](https://atmosera.com)
-[![DevOps](https://img.shields.io/badge/DevOps-Experts-4AB197?style=for-the-badge&logo=azuredevops&logoColor=white)](https://atmosera.com)
-
 </div>
 
 > A Professional & Managed Services Microsoft Partner delivering world-class DevOps, GitHub, and cloud solutions for the Microsoft ecosystem.
@@ -31,42 +26,28 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 <tr style="border: none;">
 <td align="center" style="border: none;">
 
-[![Azure Expert MSP](../images/azure-expert-msp.png)](https://atmosera.com)
+[![Azure Expert MSP](../images/AI_POTY_BAdge.png)](https://atmosera.com)
 #### Azure Expert MSP
 
 </td>
 <td align="center" style="border: none;">
 
-[![Kubernetes](../images/kubernetes-azure.png)](https://atmosera.com)
+[![Kubernetes](../images/github-partner-label-1.svg)](https://atmosera.com)
 #### Kubernetes on Azure
 
-</td>
-<td align="center" style="border: none;">
-
-[![Web Apps](../images/modernization-web-apps.png)](https://atmosera.com)
-#### Web Apps Modernization
-
-</td>
 </tr>
 <tr style="border: none;">
 <td align="center" style="border: none;">
 
-[![Analytics](../images/analytics-azure.png)](https://atmosera.com)
+[![Analytics](../images/microsoft-partner-label.svg)](https://atmosera.com)
 #### Analytics on Azure
 
 </td>
 <td align="center" style="border: none;">
 
-[![Security](../images/cloud-security.png)](https://atmosera.com)
+[![Security](../images/misa-2-300x236.webp)](https://atmosera.com)
 #### Cloud Security
 
-</td>
-<td align="center" style="border: none;">
-
-[![Migration](../images/windows-sql-migration.png)](https://atmosera.com)
-#### Windows & SQL Migration
-
-</td>
 </tr>
 </table>
 </div>
@@ -116,7 +97,7 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 </tr>
 </table>
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Expertise Highlights
 
 <table>
 <tr>
@@ -125,21 +106,21 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 ### Cloud & Infrastructure
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) / ![Bicep](https://img.shields.io/badge/Bicep-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </td>
 <td width="33%">
 
 ### DevOps & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Developer Experience](https://img.shields.io/badge/Developer_Experience-2088FF?style=for-the-badge&logo=Developer_Experience&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) / ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) / ![Bash](https://img.shields.io/badge/Python-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </td>
 <td width="33%">
 
 ### Monitoring & Security
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Purview](https://img.shields.io/badge/Azure_Purview-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
