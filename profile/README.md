@@ -1,74 +1,162 @@
-<p align="center">
-  <img src="https://www.atmosera.com/wp-content/uploads/2021/11/atmosera_logo.svg" alt="Atmosera" width="200" />
-</p>
+# Atmosera
 
-<h1 align="center">Welcome to Atmosera’s GitHub 👋</h1>
-<p align="center">
-  <strong>Atmosera, A Professional & Managed Services Microsoft Partner!</strong><br>
-  Delivering world-class DevOps, GitHub, and cloud solutions for the Microsoft ecosystem.
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Microsoft Partner Badge -->
-  <img src="https://img.shields.io/badge/Microsoft%20Partner-Cloud_Solution_Provider-0078D4?logo=microsoft" alt="Microsoft CSP" />
-  <!-- DevOps Badge -->
-  <img src="https://img.shields.io/badge/DevOps-Expert-4AB197?logo=azuredevops" alt="DevOps Expertise" />
-  <!-- Website Badge -->
-  <a href="https://atmosera.com">
-    <img src="https://img.shields.io/badge/Website-atmosera.com-blue" alt="Atmosera Website" />
-  </a>
-</p>
+[![Atmosera](../images/github-banner-repo.png)](https://atmosera.com)
 
----
+</div>
 
-## 📖 Table of Contents
+> A Professional & Managed Services Microsoft Partner delivering world-class DevOps, GitHub, and cloud solutions for the Microsoft ecosystem.
 
-- [About Atmosera](#-about-atmosera)  
-- [Our Services](#-our-services)  
-- [Expertise & Tech Stack](#-expertise--tech-stack)  
-- [Featured Projects](#-featured-projects)  
-- [Getting Started](#-getting-started)  
-- [Contributing](#-contributing)  
-- [Contact & Support](#-contact--support)  
-- [License](#-license)  
+## 🌟 About Us
 
----
+Atmosera is your trusted partner in digital transformation. For over 30 years, we've been:
 
-## 🏢 About Atmosera
+- 🚀 Driving cloud innovation and operational excellence
+- 🛡️ Minimizing security and compliance risks
+- 💎 Optimizing financial performance
+- 🤝 Building lasting partnerships through trust
 
-Atmosera’s here to make a positive difference for our clients and, through a focus on trust-building service delivery, continue to build Atmosera for the long-term. Over the past 30 years, we’ve navigated the same transformations as we help our clients navigate and can speak from a credible, personal, and highly technical perspective. With extensive expertise across AppDev, DevOps, Data, AI, and the Microsoft Azure platform, Atmosera exists to improve operational agility, minimize security and compliance risks, optimize financial performance, and vastly enhance value for those with whom we partner.  We are a leading transformation services provider, our clients are global, and our focus is on exceptional, personalized business outcomes for you.
+Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure platform, making us a leading transformation services provider for global clients.
 
----
+## 🏆 Accolades
+
+<div align="center">
+<table border="0">
+<tr style="border: none;">
+<td align="center" style="border: none;">
+
+[![Azure Expert MSP](../images/AI_POTY_BAdge.png)](https://atmosera.com)
+#### Azure Expert MSP
+
+</td>
+<td align="center" style="border: none;">
+
+[![Kubernetes](../images/github-partner-label-1.svg)](https://atmosera.com)
+#### Kubernetes on Azure
+
+</tr>
+<tr style="border: none;">
+<td align="center" style="border: none;">
+
+[![Analytics](../images/microsoft-partner-label.svg)](https://atmosera.com)
+#### Analytics on Azure
+
+</td>
+<td align="center" style="border: none;">
+
+[![Security](../images/misa-2-300x236.webp)](https://atmosera.com)
+#### Cloud Security
+
+</tr>
+</table>
+</div>
 
 ## 💼 Our Services
 
-| Service                             | Description                                                        |
-|-------------------------------------|--------------------------------------------------------------------|
-| **Cloud Strategy & Architecture**   | Roadmaps, assessments, governance, and cost optimization.          |
-| **Platform Engineering**            | Design and implement world class Developer Experience Platforms    |
-| **Microsoft & GitHub Training**     | Learn from our expert trainers on all things Microsoft and Github! |
-| **Managed Azure & DevOps**          | 24×7 monitoring, incident response, and continuous improvement.    |
-| **Application Modernization**       | Containerization, Kubernetes (AKS), and serverless architectures.  |
-| **Security & Compliance**           | Azure Security Center, Sentinel, policy-as-code, and hardening.    |
+<table>
+<tr>
+<td width="50%">
+
+### Cloud & Architecture
+- Cloud Strategy & Roadmaps
+- Architecture Design
+- Cost Optimization
+- Governance & Compliance
+
+</td>
+<td width="50%">
+
+### Platform Engineering
+- Developer Experience Platforms
+- Infrastructure as Code
+- Microservices Architecture
+- CI/CD Implementation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Training & Enablement
+- Microsoft Azure Training
+- GitHub Enterprise Training
+- DevOps Workshops
+- Custom Learning Paths
+
+</td>
+<td width="50%">
+
+### Managed Services
+- 24×7 Azure Monitoring
+- Incident Response
+- Security Operations
+- Continuous Optimization
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Technical Expertise Highlights
+
+<table>
+<tr>
+<td width="33%">
+
+### Cloud & Infrastructure
+![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) / ![Bicep](https://img.shields.io/badge/Bicep-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</td>
+<td width="33%">
+
+### DevOps & Automation
+![Developer Experience](https://img.shields.io/badge/Developer_Experience-2088FF?style=for-the-badge&logo=Developer_Experience&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) / ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) / ![Bash](https://img.shields.io/badge/Python-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</td>
+<td width="33%">
+
+### Monitoring & Security
+![Azure Purview](https://img.shields.io/badge/Azure_Purview-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## 🚀 Get Started
+
+```bash
+# Clone the repository you're interested in
+git clone https://github.com/Atmosera/<repository-name>
+
+# Navigate to the project
+cd <repository-name>
+
+# Follow the repository's specific setup instructions
+```
+
+## 📫 Contact Us
+
+<div align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  
+[![🌐 Website](https://img.shields.io/badge/🌐_Website-0078D4?style=for-the-badge)](https://atmosera.com)
+[![💬 Contact Us](https://img.shields.io/badge/💬_Contact_Us-00A4EF?style=for-the-badge)](https://atmosera.com/contact/)
+[![👥 LinkedIn](https://img.shields.io/badge/👥_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/atmosera)
+
+</p>
+</div>
 
 ---
 
-## 🚀 Expertise & Tech Stack
+<div align="center">
 
-- **Cloud**: Azure (AKS, App Services, Functions, Cosmos DB)...
-- **DevOps**: GitHub Actions, Azure Pipelines, Terraform, Helm, Flux...
-- **Containers & Orchestration**: Docker, Kubernetes, Service Mesh...
-- **Monitoring & Logging**: Azure Monitor, Log Analytics, Fabric...
-- **Scripting & Automation**: PowerShell, Azure CLI, Python, Ansible, Python...
-- **Security**: Azure Security Center, Microsoft Defender, Policy as Code...
+### Ready to transform your cloud journey? [Let's talk!](https://atmosera.com/contact/)
 
----
-
-## 🏁 Getting Started
-
-1. **Fork** the repo you’re interested in.  
-2. **Clone** locally:
-   ```bash
-   git clone https://github.com/Atmosera/<repo-name>.git
-   cd <repo-name>
+</div>
 
