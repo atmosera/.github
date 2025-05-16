@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Atmosera](https://www.atmosera.com/wp-content/uploads/2021/11/atmosera_logo.svg)](https://atmosera.com)
+[![Atmosera](../images/github-banner-repo.png)](https://atmosera.com)
 
 </div>
 
@@ -140,7 +140,7 @@ cd <repository-name>
 # Follow the repository's specific setup instructions
 ```
 
-## 📫 Contact
+## 📫 Contact Us
 
 <div align="center">
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
