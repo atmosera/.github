@@ -32,26 +32,9 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
-<div style="text-align: center; flex: 1; min-width: 200px;">
-
-[![Data & AI](../images/Data_AI%20Badge.png)](https://www.atmosera.com/innovate/data-modernization/)
-**Data & AI**
-
-</div>
-<div style="text-align: center; flex: 1; min-width: 200px;">
-
-[![App Innovation](../images/App%20Inno%20Badge.png)](https://www.atmosera.com/innovate/devops/)
-**App Innovation**
-
-</div>
-<div style="text-align: center; flex: 1; min-width: 200px;">
-
-[![Security](../images/Security%20Badge.png)](https://www.atmosera.com/protect/)
-**Security**
-
-</div>
-</div>
+| [![Data & AI](../images/Data_AI%20Badge.png)](https://www.atmosera.com/innovate/data-modernization/) | [![App Innovation](../images/App%20Inno%20Badge.png)](https://www.atmosera.com/innovate/devops/) | [![Security](../images/Security%20Badge.png)](https://www.atmosera.com/protect/) |
+|:---:|:---:|:---:|
+| **Data & AI** | **App Innovation** | **Security** |
 
 </div>
 
