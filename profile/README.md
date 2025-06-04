@@ -102,7 +102,7 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 
 ## 🛠️ Technical Expertise Highlights
 
-<table style="border: none; border-collapse: collapse;"
+<table style="border: none; border-collapse: collapse;">
 <tr>
 <td width="33%">
 
