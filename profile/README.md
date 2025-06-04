@@ -22,32 +22,33 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 ## 🏆 Accolades
 
 <div align="center">
+
+[![GitHub Partner of the Year](../images/AI_POTY_BAdge.png)](https://atmosera.com)
+#### GitHub Partner of the Year
+
+</div>
+
+<div align="center">
 <table border="0">
 <tr style="border: none;">
 <td align="center" style="border: none;">
 
-[![Azure Expert MSP](../images/AI_POTY_BAdge.png)](https://atmosera.com)
-#### Azure Expert MSP
+[![Data & AI](../images/Data_AI%20Badge.png)](https://atmosera.com)
+#### Data & AI
 
 </td>
 <td align="center" style="border: none;">
 
-[![Kubernetes](../images/github-partner-label-1.svg)](https://atmosera.com)
-#### Kubernetes on Azure
-
-</tr>
-<tr style="border: none;">
-<td align="center" style="border: none;">
-
-[![Analytics](../images/microsoft-partner-label.svg)](https://atmosera.com)
-#### Analytics on Azure
+[![App Innovation](../images/App%20Inno%20Badge.png)](https://atmosera.com)
+#### App Innovation
 
 </td>
 <td align="center" style="border: none;">
 
-[![Security](../images/misa-2-300x236.webp)](https://atmosera.com)
-#### Cloud Security
+[![Security](../images/Security%20Badge.png)](https://atmosera.com)
+#### Security
 
+</td>
 </tr>
 </table>
 </div>
