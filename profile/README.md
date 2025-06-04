@@ -6,7 +6,7 @@
 
 </div>
 
-> A Professional & Managed Services Microsoft Partner delivering world-class DevOps, GitHub, and cloud solutions for the Microsoft ecosystem.
+> A Professional & Managed Services Microsoft Partner delivering world-class DevOps, GitHub, and cloud solutions.
 
 ## 🌟 About Us
 
@@ -28,24 +28,26 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 
 </div>
 
+<br>
+
 <div align="center">
-<table border="0">
+<table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td align="center" style="border: none;">
 
-[![Data & AI](../images/Data_AI%20Badge.png)](https://atmosera.com)
+[![Data & AI](../images/Data_AI%20Badge.png)](https://www.atmosera.com/innovate/data-modernization/)
 #### Data & AI
 
 </td>
 <td align="center" style="border: none;">
 
-[![App Innovation](../images/App%20Inno%20Badge.png)](https://atmosera.com)
+[![App Innovation](../images/App%20Inno%20Badge.png)](https://www.atmosera.com/innovate/devops/)
 #### App Innovation
 
 </td>
 <td align="center" style="border: none;">
 
-[![Security](../images/Security%20Badge.png)](https://atmosera.com)
+[![Security](../images/Security%20Badge.png)](https://www.atmosera.com/protect/)
 #### Security
 
 </td>
@@ -157,7 +159,7 @@ cd <repository-name>
 
 <div align="center">
 
-### Ready to transform your cloud journey? [Let's talk!](https://atmosera.com/contact/)
+### Ready to transform your cloud journey? [Let's talk!](https://www.atmosera.com/contact-us/)
 
 </div>
 
