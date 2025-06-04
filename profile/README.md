@@ -31,29 +31,14 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 <br>
 
 <div align="center">
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td align="center" style="border: none;">
 
-[![Data & AI](../images/Data_AI%20Badge.png)](https://www.atmosera.com/innovate/data-modernization/)
-#### Data & AI
+| [![Data & AI](../images/Data_AI%20Badge.png)](https://www.atmosera.com/innovate/data-modernization/) | [![App Innovation](../images/App%20Inno%20Badge.png)](https://www.atmosera.com/innovate/devops/) | [![Security](../images/Security%20Badge.png)](https://www.atmosera.com/protect/) |
+|:---:|:---:|:---:|
+| **Data & AI** | **App Innovation** | **Security** |
 
-</td>
-<td align="center" style="border: none;">
-
-[![App Innovation](../images/App%20Inno%20Badge.png)](https://www.atmosera.com/innovate/devops/)
-#### App Innovation
-
-</td>
-<td align="center" style="border: none;">
-
-[![Security](../images/Security%20Badge.png)](https://www.atmosera.com/protect/)
-#### Security
-
-</td>
-</tr>
-</table>
 </div>
+
+## 💼 Our Services
 
 <div align="center">
 
@@ -61,48 +46,17 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 
 </div>
 
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td width="50%" style="border: none; padding: 20px;">
+<div align="center">
 
-### ☁️ **Cloud & Architecture**
-- 🎯 Cloud Strategy & Roadmaps
-- 🏗️ Architecture Design
-- 💰 Cost Optimization
-- 🛡️ Governance & Compliance
+| ☁️ **Cloud & Architecture** | ⚙️ **Platform Engineering** |
+|:---|:---|
+| 🎯 Cloud Strategy & Roadmaps<br>🏗️ Architecture Design<br>💰 Cost Optimization<br>🛡️ Governance & Compliance | 🔧 Developer Experience Platforms<br>📋 Infrastructure as Code<br>🔗 Microservices Architecture<br>🔄 CI/CD Implementation |
 
-</td>
-<td width="50%" style="border: none; padding: 20px;">
+| 🎓 **Training & Enablement** | 📊 **Managed Services** |
+|:---|:---|
+| 🌐 Microsoft Azure Training<br>🐙 GitHub Enterprise Training<br>🛠️ DevOps Workshops<br>📚 Custom Learning Paths | ⏰ 24×7 Azure Monitoring<br>🚨 Incident Response<br>🔒 Security Operations<br>📈 Continuous Optimization |
 
-### ⚙️ **Platform Engineering**
-- 🔧 Developer Experience Platforms
-- 📋 Infrastructure as Code
-- 🔗 Microservices Architecture
-- 🔄 CI/CD Implementation
-
-</td>
-</tr>
-<tr style="border: none;">
-<td width="50%" style="border: none; padding: 20px;">
-
-### 🎓 **Training & Enablement**
-- 🌐 Microsoft Azure Training
-- 🐙 GitHub Enterprise Training
-- 🛠️ DevOps Workshops
-- 📚 Custom Learning Paths
-
-</td>
-<td width="50%" style="border: none; padding: 20px;">
-
-### 📊 **Managed Services**
-- ⏰ 24×7 Azure Monitoring
-- 🚨 Incident Response
-- 🔒 Security Operations
-- 📈 Continuous Optimization
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -110,36 +64,13 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 
 </div>
 
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td width="33%" style="border: none; padding: 15px; text-align: center;">
+<div align="center">
 
-### 🌐 **Cloud & Infrastructure**
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
-![Bicep](https://img.shields.io/badge/Bicep-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+| 🌐 **Cloud & Infrastructure** | 🔄 **DevOps & Automation** | 🔒 **Monitoring & Security** |
+|:---:|:---:|:---:|
+| ![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br>![Kubernetes](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)<br>![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)<br>![Bicep](https://img.shields.io/badge/Bicep-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Developer Experience](https://img.shields.io/badge/Developer_Experience-2088FF?style=for-the-badge&logo=Developer_Experience&logoColor=white)<br>![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | ![Azure Purview](https://img.shields.io/badge/Azure_Purview-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br>![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)<br>![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 
-</td>
-<td width="33%" style="border: none; padding: 15px; text-align: center;">
-
-### 🔄 **DevOps & Automation**
-![Developer Experience](https://img.shields.io/badge/Developer_Experience-2088FF?style=for-the-badge&logo=Developer_Experience&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-</td>
-<td width="33%" style="border: none; padding: 15px; text-align: center;">
-
-### 🔒 **Monitoring & Security**
-![Azure Purview](https://img.shields.io/badge/Azure_Purview-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -176,21 +107,6 @@ cd <repository-name>
 [![👥 LinkedIn](https://img.shields.io/badge/👥_Follow_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/atmosera)
 
 </p>
-
-### 📞 **Ready to Talk?**
-**Call us:** [1-800-ATMOSERA](tel:1-800-286-6773)  
-**Email:** [hello@atmosera.com](mailto:hello@atmosera.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 **Ready to transform your cloud journey?** 
-### [**🎯 Let's talk!**](https://www.atmosera.com/contact-us/)
-
-*Empowering innovation through expert cloud solutions since 1994*
 
 </div>
 
