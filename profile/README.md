@@ -44,12 +44,9 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 
 ### 🚀 **Transform Your Cloud Journey with Expert Services**
 
-</div>
-
-<div align="center">
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; max-width: 1000px;">
-<div style="flex: 1; min-width: 300px; padding: 20px;">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td style="border: none; padding: 20px; vertical-align: top; text-align: center;">
 
 ### ☁️ **Cloud & Architecture**
 🎯 Cloud Strategy & Roadmaps  
@@ -57,8 +54,8 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 💰 Cost Optimization  
 🛡️ Governance & Compliance
 
-</div>
-<div style="flex: 1; min-width: 300px; padding: 20px;">
+</td>
+<td style="border: none; padding: 20px; vertical-align: top; text-align: center;">
 
 ### ⚙️ **Platform Engineering**
 🔧 Developer Experience Platforms  
@@ -66,11 +63,10 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 🔗 Microservices Architecture  
 🔄 CI/CD Implementation
 
-</div>
-</div>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; max-width: 1000px;">
-<div style="flex: 1; min-width: 300px; padding: 20px;">
+</td>
+</tr>
+<tr style="border: none;">
+<td style="border: none; padding: 20px; vertical-align: top; text-align: center;">
 
 ### 🎓 **Training & Enablement**
 🌐 Microsoft Azure Training  
@@ -78,8 +74,8 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 🛠️ DevOps Workshops  
 📚 Custom Learning Paths
 
-</div>
-<div style="flex: 1; min-width: 300px; padding: 20px;">
+</td>
+<td style="border: none; padding: 20px; vertical-align: top; text-align: center;">
 
 ### 📊 **Managed Services**
 ⏰ 24×7 Azure Monitoring  
@@ -87,8 +83,9 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 🔒 Security Operations  
 📈 Continuous Optimization
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -96,12 +93,9 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 
 ### 💪 **Cutting-Edge Technology Stack**
 
-</div>
-
-<div align="center">
-
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-<div style="text-align: center; flex: 1; min-width: 250px;">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td style="border: none; padding: 20px; vertical-align: top; text-align: center; width: 33%;">
 
 ### 🌐 **Cloud & Infrastructure**
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
@@ -109,8 +103,8 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Bicep](https://img.shields.io/badge/Bicep-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-</div>
-<div style="text-align: center; flex: 1; min-width: 250px;">
+</td>
+<td style="border: none; padding: 20px; vertical-align: top; text-align: center; width: 33%;">
 
 ### 🔄 **DevOps & Automation**
 ![Developer Experience](https://img.shields.io/badge/Developer_Experience-2088FF?style=for-the-badge&logo=Developer_Experience&logoColor=white)  
@@ -118,16 +112,17 @@ Our extensive expertise spans AppDev, DevOps, Data, AI, and the Microsoft Azure 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-</div>
-<div style="text-align: center; flex: 1; min-width: 250px;">
+</td>
+<td style="border: none; padding: 20px; vertical-align: top; text-align: center; width: 33%;">
 
 ### 🔒 **Monitoring & Security**
 ![Azure Purview](https://img.shields.io/badge/Azure_Purview-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
